@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 	"net"
-	pb "github.com/Mdaiki0730/grpc-learning"
+	pb "github.com/Mdaiki0730/grpc-learning/src"
 	"google.golang.org/grpc"
 )
 
