@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  grpc:
+    build:
+      context: .
+    volumes:
+      - .:/app
+    tty: true
